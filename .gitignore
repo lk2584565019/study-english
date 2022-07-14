@@ -1,0 +1,12 @@
+### IntelliJ IDEA ###
+.idea/
+target/
+mtu3d_back/
+LOG_PATH_IS_UNDEFINED/
+#.gitignore
+.gitattributes
+#!**/src/main/**
+#!**/src/test/**
+*.iws
+*.iml
+*.ipr
